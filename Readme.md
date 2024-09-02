@@ -9,4 +9,5 @@
    "git status" command
 9. create git '.gitignore' file, for content you can search online for  'git generator' link ==> https://mrkandreev.name/snippets/gitignore-generator/#Node
 10. added   "type": "module", in package.json
-11. added nodemon => so server reload automatically when we add any changes.we install it as dev dependency because we dont want in  production
+11. added nodemon => so server reload automatically when we add any changes.we install it as dev dependency because we dont want in  production.
+12. now we add prettier as dev dependency
